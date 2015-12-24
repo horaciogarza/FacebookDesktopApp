@@ -1,0 +1,17 @@
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\bin\Debug\Facebook Desktop.exe.config
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\bin\Debug\Facebook Desktop.exe
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\bin\Debug\Facebook Desktop.pdb
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\bin\Debug\Telerik.WinControls.dll
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\bin\Debug\TelerikCommon.dll
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\bin\Debug\Telerik.WinControls.xml
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\obj\x86\Debug\Facebook Desktop.csprojResolveAssemblyReference.cache
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\obj\x86\Debug\Facebook_Desktop.RadForm1.resources
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\obj\x86\Debug\Facebook_Desktop.Properties.Resources.resources
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\obj\x86\Debug\Facebook Desktop.csproj.GenerateResource.Cache
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\obj\x86\Debug\Facebook Desktop.exe
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\obj\x86\Debug\Facebook Desktop.pdb
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\obj\x86\Debug\Facebook Desktop.exe.licenses
+C:\Users\cgarzaho\Documents\Visual Studio 2012\Projects\FacebookDesktopApplication\Facebook Desktop\obj\x86\Debug\Facebook_Desktop.RadForm2.resources
